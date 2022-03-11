@@ -55,5 +55,3 @@ def d_tect():
     print(style.bold(style.magenta(" |____/   |_| |_____\____| |_|  v1.0")))
     print(style.bold(style.magenta("")))
 
-
-menu1()
